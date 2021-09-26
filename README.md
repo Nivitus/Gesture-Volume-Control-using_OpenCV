@@ -51,7 +51,7 @@ Some of the major applications of MediaPipe.
 
 ## Libraries Used 
 
-[![Alt Text](Images/mo.JPG)]
+[![Alt Text](Images/mod.JPG)]
 
 
 ## PyCaw

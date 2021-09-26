@@ -1,6 +1,5 @@
 # Gesture-Volume-Control-using_OpenCV
-In this project we are going to learn how to use Gesture Control to change the volume of a computer. We first look into hand tracking and then we will use the hand landmarks to find gesture of our hand to change the volume.
-# Hand-Tracking-30FPS-using-OpenCV #
+
 ## Table of Content ##
 - [Overview](#overview) 
 - [Motivation](#motivation) 
@@ -12,9 +11,9 @@ In this project we are going to learn how to use Gesture Control to change the v
 - [Team](#team) 
 
 ## Overview 
-OpenCV is a library used for computer vision applications. With help of OpenCV, we can build an enormous number of applications that work better in real-time. Mainly it is used for image and video processing. This project all about Hand Tracking in real time using OpenCV. In this Hand Tracking project, we’ve built a hand gesture recognizer using OpenCV and python. We’ve used MediaPipe and Tensorflow framework for the detection and gesture recognition respectively. Here we’ve learned about the basics of the Neural Network, File handling, some common image processing techniques, etc.
+OpenCV is a library used for computer vision applications. With help of OpenCV, we can build an enormous number of applications that work better in real-time. Mainly it is used for image and video processing. This project all about Gesture Volume Control using OpenCV. We first look into hand tracking and then we will use the hand landmarks to find gesture of our hand to change the volume. This project is module based which means we will be using a previously created hand module which makes the hand tracking very easy. 
 
-![Hand_Tracking](Images/hand.gif)
+![Hand_Tracking](Images/vol.gif)
 
 ## Motivation 
 The motivation for developing computer vision projects is the human vision system which is richest sense that we have. I heard about omplex cameras are being integrated into many devices (Smartphones how have cameras producing depth images as well as colour images, wide angle cameras are being integrated into cars so that a birds-eye image can be created, cameras are appearing in smart glasses, ...), and this in turn is pushing the development of progressively more complex vision systems. SO that is big mmotivation to me for learning opencv and basics of computer vision projects.
